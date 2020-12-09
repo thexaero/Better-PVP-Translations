@@ -384,4 +384,4 @@ gui.xaero_icons_off=No Icons
 gui.xaero_box_entity_radar_icons=Render entity icons instead of colored dots. \n \n Option "Player List" - render while the "List Players" key binding is pressed (TAB by default).
 gui.xaero_dot_name_scale=Dot Name Scale
 gui.xaero_entity_heads_scale=Entity Icons Scale
-gui.xaero_box_minimap_size=Size of the minimap frame that affects how much is visible. Square-shaped minimap is forced into no-rotation mode when the size is too large. \n \n Go all the way to left for the "Auto" option. \n \n Sizes in older mod versions: \n Tiny - 57 \n Small - 85 \n Medium - 113 \n Large - 169
+gui.xaero_box_minimap_size=Size of the minimap frame that affects how much is visible. Square-shaped minimap is forced into no-rotation mode (lock north) when the size is greater than 180. \n \n Go all the way to the left for the "Auto" option. \n \n Size values in the older mod versions: \n Tiny - 57 \n Small - 85 \n Medium - 113 \n Large - 169
