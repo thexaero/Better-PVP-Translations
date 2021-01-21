@@ -393,3 +393,7 @@ gui.xaero_box_waypoints_clamp_depth=The screen depth at which in-game waypoints 
 gui.xaero_box_waypoints_distance_scale=Scale of the text displaying the distance to an in-game waypoint. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-Game Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8
 gui.xaero_box_waypoints_name_scale=Scale of the text displaying the name of an in-game waypoint. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-Game Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8
 gui.xaero_box_waypoints_scale=Scale of in-game waypoints. Use this to change the scale of all in-game waypoints, including those that are near you. Use the "Clamp Depth" setting to specifically affect the size of waypoints that are far away. \n \n Default values in older mod versions: \n Clamp Depth: 12 \n In-Game Scale: 2.5 \n Name Text Scale: 0.5 \n Distance Text Scale: 0.8
+gui.xaero_waypoint_shared=%1$s shared a waypoint called "%2$s"! §2§n[Add]
+gui.xaero_waypoint_shared_dimension=%1$s shared a waypoint called "%2$s" from %3$s! §2§n[Add]
+gui.xaero_waypoint_unknown_dimension=an unknown dimension
+gui.xaero_uses_worldmap_value=Setting value is taken from the world map settings!
