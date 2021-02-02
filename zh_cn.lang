@@ -399,4 +399,4 @@ gui.xaero_waypoint_unknown_dimension=未知的维度
 gui.xaero_uses_worldmap_value=设置的值取自世界地图Mod设置!
 gui.xaero_dots_style=实体的点样式
 gui.xaero_dots_style_default=默认
-gui.xaero_dots_style_legacy=传统 
+gui.xaero_dots_style_legacy=传统
