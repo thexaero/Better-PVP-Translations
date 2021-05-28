@@ -444,3 +444,6 @@ effect.xaerominimap.no_entity_radar_beneficial=Без радара сущнос�
 effect.xaerominimap.no_waypoints_beneficial=Без отметок
 effect.xaerominimap.no_cave_maps_beneficial=Без карт пещер
 gui.xaero_radar_item_frames=Рамки для предметов
+gui.xaero_show_dimension_name=Показывать текущее измерение
+gui.xaero_unknown_biome=Неизвестный биом
+gui.xaero_light_value=Свет: %d
