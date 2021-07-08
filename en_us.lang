@@ -447,3 +447,4 @@ gui.xaero_radar_item_frames=Display Item Frame Dots
 gui.xaero_show_dimension_name=Display Current Dimension
 gui.xaero_unknown_biome=Unknown Biome
 gui.xaero_light_value=Light: %d
+gui.xaero_teleport_y_unknown=You can't teleport to a waypoint that doesn't specify the Y coordinate. Edit the waypoint to be able to teleport to it.
