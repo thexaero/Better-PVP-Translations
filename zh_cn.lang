@@ -111,8 +111,8 @@ gui.xaero_quick_use_8=快速使用 8
 gui.xaero_quick_use_9=快速使用 9
 gui.xaero_zoom_in=小地图拉近
 gui.xaero_zoom_out=小地图拉远
-gui.xaero_on=开启
-gui.xaero_off=关闭
+gui.xaero_on=开
+gui.xaero_off=关
 gui.xaero_restores=还原
 gui.xaero_preset_topleft=左上角
 gui.xaero_preset_topright=右上角
@@ -388,10 +388,10 @@ gui.xaero_auto_clamp_depth=自动
 gui.xaero_waypoints_clamp_depth=距离阈值
 gui.xaero_waypoints_distance_scale=路径点距离文本尺寸
 gui.xaero_waypoints_name_scale=路径点名称文本尺寸
-gui.xaero_box_waypoints_clamp_depth=当你在游戏中远离路径点超过此距离后，路径点将不再缩小\n 若你想调整远处的路径点的尺寸时，可以调整此值。使用“游戏内路径点尺寸”设置来调整你靠近路径点时的尺寸。 \n \n 将滑块拉到最左边可以启用“自动”选项。\n 自动选项将会根据你的 FOV、屏幕尺寸和默认的路径点尺寸来计算一个最优值。\n \n 老模组的默认值： \n 距离阈值=12 \n 游戏内路径点尺寸=2.5 \n 名称文本尺寸=0.5 \n 距离文本尺寸=0.8
-gui.xaero_box_waypoints_distance_scale=游戏内路径点距离显示文本的尺寸。 \n \n 老模组的默认值： \n 距离阈值=12 \n 游戏内路径点尺寸=2.5 \n 名称文本尺寸=0.5 \n 距离文本尺寸=0.8
-gui.xaero_box_waypoints_name_scale=游戏内路径点名称显示文本的尺寸。 \n \n 老模组的默认值： \n 距离阈值=12 \n 游戏内路径点尺寸=2.5 \n 名称文本尺寸=0.5 \n 距离文本尺寸=0.8
-gui.xaero_box_waypoints_scale=游戏内路径点尺寸。使用此值来改变所有游戏内路径点尺寸，包括那些离你很近的路径点。使用 \距离阈值\ 设置来指定较远的路径点的显示大小。\n \n 老模组的默认值： \n 距离阈值=12 \n 游戏内路径点尺寸=2.5 \n 名称文本尺寸=0.5 \n 距离文本尺寸=0.8
+gui.xaero_box_waypoints_clamp_depth=当你在游戏中远离路径点超过此距离后，路径点将不再缩小\n 若你想调整远处的路径点的尺寸时，可以调整此值。使用“游戏内路径点尺寸”设置来调整你靠近路径点时的尺寸。 \n \n 将滑块拉到最左边可以启用“自动”选项。\n 自动选项将会根据你的 FOV、屏幕尺寸和默认的路径点尺寸来计算一个最优值。\n \n 老模组的默认值： \n 距离阈值：12 \n 游戏内路径点尺寸：2.5 \n 名称文本尺寸：0.5 \n 距离文本尺寸：0.8
+gui.xaero_box_waypoints_distance_scale=游戏内路径点距离显示文本的尺寸。 \n \n 老模组的默认值： \n 距离阈值：12 \n 游戏内路径点尺寸：2.5 \n 名称文本尺寸：0.5 \n 距离文本尺寸：0.8
+gui.xaero_box_waypoints_name_scale=游戏内路径点名称显示文本的尺寸。 \n \n 老模组的默认值： \n 距离阈值：12 \n 游戏内路径点尺寸：2.5 \n 名称文本尺寸：0.5 \n 距离文本尺寸：0.8
+gui.xaero_box_waypoints_scale=游戏内路径点尺寸。使用此值来改变所有游戏内路径点尺寸，包括那些离你很近的路径点。使用 \距离阈值\ 设置来指定较远的路径点的显示大小。\n \n 老模组的默认值： \n 距离阈值：12 \n 游戏内路径点尺寸：2.5 \n 名称文本尺寸：0.5 \n 距离文本尺寸：0.8
 gui.xaero_waypoint_shared=%1$s 分享了一个名为 \%2$s\ 的路径点！§2§n[Add]
 gui.xaero_waypoint_shared_dimension=%1$s 在 %3$s 分享了一个名为 \%2$s\ 的路径点！§2§n[Add]
 gui.xaero_waypoint_unknown_dimension=未知的位面
@@ -405,7 +405,7 @@ gui.xaero_ui_scale=UI 尺寸
 gui.xaero_ui_scale_auto=自动
 gui.xaero_ui_scale_mc=Minecraft
 gui.xaero_box_ui_scale=文本和其他UI元素的尺寸。 \n不适用于放大或调整大小，这两项有单独的选项设置。
-gui.xaero_no_durability=无耐久度
+gui.xaero_no_durability=无
 gui.xaero_pushbox_normal=正常
 gui.xaero_pushbox_screen_height=窗口高度
 gui.xaero_pushbox_boss_health=BOSS 血量条碰撞箱类型
@@ -446,7 +446,7 @@ effect.xaerominimap.no_cave_maps_beneficial=洞穴地图不可用
 gui.xaero_radar_item_frames=用圆点显示物品展示框
 gui.xaero_show_dimension_name=显示当前位面
 gui.xaero_unknown_biome=未知生物群系
-gui.xaero_light_value=光照强度=%d
+gui.xaero_light_value=光照强度：%d
 gui.xaero_teleport_y_unknown=你无法传送到一个高度未知的路径点，请编辑路径点信息以确保能成功传送。
 gui.xaero_box_waypoints_distance_scale2=游戏内路径点距离显示文本的尺寸。
 gui.xaero_box_waypoints_name_scale2=游戏内路径点名称显示文本的尺寸。
