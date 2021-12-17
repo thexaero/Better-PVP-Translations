@@ -1,275 +1,552 @@
-gui.xaero_confirm=保存
-gui.xaero_cancel=キャンセル
-gui.xaero_back=戻る
-gui.xaero_delete=削除
-gui.xaero_OK=OK
-gui.xaero_add_edit=追加/編集
-gui.xaero_new_waypoint=新規ウェイポイント
-gui.xaero_initial=頭文字
-gui.xaero_edit_waypoint=ウェイポイントを編集
-gui.xaero_armour_status_settings=防具表示の設定
-gui.xaero_choose_a_preset=プリセットを選択
-gui.xaero_choose_an_interface=インターフェースを選択
-gui.xaero_armour_status=防具の表示
-gui.xaero_notifications=通知
-gui.xaero_minimap=ミニマップ
-gui.xaero_miscellaneous=その他
-gui.xaero_edit_mode=編集モード
-gui.xaero_instructions=ヘルプ
-gui.xaero_not_ingame=編集モードを使うにはゲーム内にいる必要があります!
-gui.xaero_welcome_edit_mode=編集モード
-gui.xaero_howto_select=左クリック: 選択
-gui.xaero_howto_drag=ドラッグ: 移動
-gui.xaero_howto_deselect=右クリック: 選択を解除
-gui.xaero_howto_center=Cキー: 中央へ移動、戻す
-gui.xaero_different_centered=* 中央に移動させたときに形が変わるものもある
-gui.xaero_howto_flip=Fキー: 反転
-gui.xaero_howto_settings=Sキー: 選択されたものの設定を開く
-gui.xaero_howto_preset="プリセットを選択" ボタン: プリセットを選ぶ
-gui.xaero_howto_save="保存" ボタン: 変更を保存
-gui.xaero_howto_cancel="キャンセル" ボタン: 変更を破棄
-gui.xaero_minimap_settings=ミニマップの設定
-gui.xaero_miscellaneous_settings=その他の設定
-gui.xaero_notification_settings=通知の設定
-gui.xaero_better_pvp_settings=Better PvPの設定
-gui.xaero_server_disabled=サーバーが一部のModの機能を無効にしている可能性があります
-gui.xaero_waypoints=ウェイポイント
-gui.xaero_box_potion_effects=ポーション効果の表示と残り時間の表示
-gui.xaero_box_armour_status=防具と手に持っているアイテムの表示
-gui.xaero_box_sprint=ダッシュキー(キー設定から変更可能)のみでダッシュができるようにする
-gui.xaero_box_sneak=スニーク状態の切り替え
-gui.xaero_box_notifications=空腹、低HP、爆発、矢などの通知
-gui.xaero_box_xp=経験値を取得したり失ったりしたときに画面上に通知
-gui.xaero_box_quick_use=キー(キー設定から変更可能)を押すと ホットバー(インベントリの1番下)にある アイテムを右クリックすることができる。 押し続けると右クリックし続けている状態になる。
-gui.xaero_box_minimap=周囲の地図とエンティティ表示(プレイヤー、Mob、アイテムなど)
-gui.xaero_centered=中央:
-gui.xaero_press_c=(Cキーを押す)
-gui.xaero_flipped=反転:
-gui.xaero_press_f=(Fキーを押す)
-gui.xaero_preset_fancy=ファンシー
-gui.xaero_preset_classic=クラシック
-gui.xaero_preset_social=ソーシャル
-gui.xaero_potion_status=ポーション効果
-gui.xaero_archery_status=残りの矢の数
-gui.xaero_sprint=ダッシュキー
-gui.xaero_sneak=トグルスニーク
-gui.xaero_enchants_color=エンチャントの色
-gui.xaero_durability=耐久度
-gui.xaero_hunger_setting=空腹の通知
-gui.xaero_hp_setting=低HPの通知
-gui.xaero_explosion_setting=爆発の通知
-gui.xaero_being_shot_setting=矢の通知
-gui.xaero_xp_setting=経験値の表示
-gui.xaero_custom_settings=詳細設定
-gui.xaero_reset_defaults=設定をデフォルトに戻す
-gui.xaero_quick_use=クイック右クリック
-gui.xaero_show_enchants=エンチャントの表示
-gui.xaero_cave_maps=洞窟
-gui.xaero_display_teams=他のチームの表示
-gui.xaero_display_waypoints=マップ上のウェイポイント
-gui.xaero_display_players=プレイヤーの表示
-gui.xaero_display_mobs=Mobの表示
-gui.xaero_display_items=アイテムの表示
-gui.xaero_display_other=その他の表示
-gui.xaero_zoom=ズーム倍率
-gui.xaero_minimap_size=サイズ
-gui.xaero_entity_amount=エンティティの数
-gui.xaero_black=黒
-gui.xaero_dark_blue=濃い青
-gui.xaero_dark_green=濃い緑
-gui.xaero_dark_aqua=濃い水色
-gui.xaero_dark_red=濃い赤
-gui.xaero_dark_purple=濃い紫
-gui.xaero_gold=オレンジ
-gui.xaero_gray=灰色
-gui.xaero_dark_gray=濃い灰色
-gui.xaero_blue=青
-gui.xaero_green=緑
-gui.xaero_aqua=水色
-gui.xaero_red=赤
-gui.xaero_purple=紫
-gui.xaero_yellow=黄色
-gui.xaero_white=白
-gui.xaero_percent=パーセント
-gui.xaero_numeral=数字
-gui.xaero_both=両方
-gui.xaero_tiny=極小
-gui.xaero_small=小
-gui.xaero_medium=中
-gui.xaero_large=大
-gui.xaero_pvp_sprint=PvPダッシュ
-gui.xaero_quick_eat=クイック満腹
-gui.xaero_toggle_sneak=トグルスニーク
-gui.xaero_quick_use_1=ホットバー 1 を右クリック
-gui.xaero_quick_use_2=ホットバー 2 を右クリック
-gui.xaero_quick_use_3=ホットバー 3 を右クリック
-gui.xaero_quick_use_4=ホットバー 4 を右クリック
-gui.xaero_quick_use_5=ホットバー 5 を右クリック
-gui.xaero_quick_use_6=ホットバー 6 を右クリック
-gui.xaero_quick_use_7=ホットバー 7 を右クリック
-gui.xaero_quick_use_8=ホットバー 8 を右クリック
-gui.xaero_quick_use_9=ホットバー 9 を右クリック
-gui.xaero_zoom_in=ミニマップを拡大
-gui.xaero_zoom_out=ミニマップを縮小
-gui.xaero_on=ON
-gui.xaero_off=OFF
-gui.xaero_restores=回復
-gui.xaero_preset_topleft=左上
-gui.xaero_preset_topright=右上
-gui.xaero_waypoint_teleport=テレポート
-gui.xaero_waypoints_key=ウェイポイント
-gui.xaero_display_coords=座標の表示
-gui.xaero_disable_enable=無効にする/有効にする
-gui.xaero_disabled=無効
-gui.xaero_minimap_guide=ミニマップをドラッグして移動
-gui.xaero_change_position=位置を変更
-gui.xaero_preset_bottom_left=左下
-gui.xaero_preset_bottom_right=右下
-gui.xaero_ingame_waypoints=ゲーム内のウェイポイント
-gui.xaero_next=次 >>
-gui.xaero_previous=<< 前
-gui.xaero_lock_north=北を上に固定
-gui.xaero_deathpoint=最新の死亡地点
-gui.xaero_deathpoint_old=古い死亡地点
-gui.xaero_deathpoints=死亡地点
-gui.xaero_chunkgrid=チャンクの枠
-gui.xaero_entity_colours=エンティティの色
-gui.xaero_players=プレイヤー
-gui.xaero_mobs=友好的生物
-gui.xaero_hostile=敵対的生物
-gui.xaero_items=アイテム
-gui.xaero_other=その他のエンティティ
-gui.xaero_hunger_low=空腹
-gui.xaero_hp_low=低HP
-gui.xaero_enlarge_map=ミニマップのサイズを拡大
-gui.xaero_fbo=ベータ
-gui.xaero_potion_status_settings=ポーション効果の設定
-gui.xaero_potion_names=ポーション効果の名前
-gui.xaero_opacity=透明度
-gui.xaero_slime_chunks=スライムチャンク
-gui.xaero_unlimited=無制限
-gui.xaero_old_deathpoints=古い死亡地点を保つ
-gui.xaero_toggle_map=ミニマップのON/OFF
-gui.xaero_antialiasing=アンチエイリアス
-gui.xaero_safe_mode=セーフモード
-gui.xaero_transfer=転送
-gui.xaero_transfer_all=すべてのウェイポイントを転送
-gui.xaero_clear=セットをクリア
-gui.xaero_from=転送元
-gui.xaero_to=転送先
-gui.xaero_used_seed=シード値:
-gui.xaero_show_distance=距離の表示
-gui.xaero_waypoints_scale=ウェイポイントの大きさ
-gui.xaero_block_colours=ブロックの色
-gui.xaero_accurate=正確
-gui.xaero_vanilla=バニラ
-gui.xaero_lighting=明るさ
-gui.xaero_air_setting=低酸素の通知
-gui.xaero_air_low=低酸素
-gui.xaero_looking_at=見ているもののみ
-gui.xaero_all=すべて
-gui.xaero_display_redstone=レッドストーンの表示
-gui.xaero_clear_set_message=このセットをクリアしてもよろしいですか
-gui.xaero_clear_set_message2=すべてのウェイポイントがこのセットから削除されます。
-gui.xaero_default=デフォルト
-gui.xaero_create_set=新規セットを作成
-gui.xaero_world=ワールド
-gui.xaero_waypoint_set=セット
-gui.xaero_delete_set=セットを削除
-gui.xaero_delete_set_message=このセットを削除してもよろしいですか
-gui.xaero_delete_set_message2=このセットがワールドから削除されます。
-gui.xaero_toggle_waypoints=ウェイポイントのON/OFF
-gui.xaero_dots_size=エンティティの点のサイズ
-gui.xaero_entity_info=エンティティ情報
-gui.xaero_toggle_slime=スライムチャンクのON/OFF
-gui.xaero_toggle_grid=チャンクの枠のON/OFF
-gui.xaero_compass_over_wp=ウェイポイント上に方角を重ねる
-gui.xaero_display_hostile=敵対的生物の表示
-gui.xaero_box_entity_info=カーソルを合わせたエンティティやプレイヤーの情報を表示
-gui.xaero_entity_info_settings=エンティティ情報の設定
-gui.xaero_entity_info_stay=表示させる時間
-gui.xaero_entity_info_distance=表示する距離
-gui.xaero_entity_info_max_hearts=最大HP
-gui.xaero_current_biome=現在のバイオームを表示
-gui.xaero_auto_map_size=自動
-gui.xaero_reset_message=設定をリセットしてもよろしいですか？
-gui.xaero_reset_message2=この操作は元に戻せません。
-gui.xaero_entity_info_numbers=体力を数字で表示
-gui.xaero_yaw=角度
-gui.xaero_true=入
-gui.xaero_false=切
-gui.xaero_team_colours=チームの色
-gui.xaero_instant_waypoint=クイックウェイポイント
-gui.xaero_entity_depth=エンティティの高さを表示
-gui.xaero_show_full_amount=持っているアイテムの合計
-gui.xaero_show_flowers=花を表示
-gui.xaero_show_entity_model=エンティティを表示
-gui.xaero_waypoint_names=ウェイポイントの距離を表示
-gui.xaero_waypoints_distance=ウェイポイント表示の最大距離
-gui.xaero_teleport_default_command=テレポートのコマンド
-gui.xaero_waypoints_distance_min=最小描画距離
-gui.xaero_other_teams=他のチーム
-gui.xaero_entity_info_armour_numbers=防御力を数字で表示
-gui.xaero_entity_info_armour=防御力の表示
-gui.xaero_arrow_scale=矢印の大きさ
-gui.xaero_arrow_colour=矢印の色
-gui.xaero_smooth_dots=ドットを滑らかにする
-gui.xaero_cave_zoom=洞窟でズームインする
-gui.xaero_height_limit=エンティティを表示する高度差上限
-gui.xaero_entity_radar=エンティティ・レーダー
-gui.xaero_entity_info_potion_effects=ポーション効果（シングル限定）
-gui.xaero_entity_info_potion_effects_scale=ポーション効果の大きさ
-gui.xaero_terrain_depth=地形の立体表示
-gui.xaero_terrain_slopes=斜面の描画
-gui.xaero_block_transparency=ブロックの透過
-gui.xaero_team=チーム
-gui.xaero_options=設定
-gui.xaero_delete_world_msg2=実行すると取り消せません。本当によろしいですか
-gui.xaero_delete_multi_world_msg2=実行すると取り消せません。本当によろしいですか
-gui.xaero_always_show_distance=ウェイポイントの距離を常に表示
-gui.xaero_item_tooltip_time=表示秒数
-gui.xaero_share=共有
-gui.xaero_share_msg1=本当にチャットで§c全員に§fこのウェイポイントを共有しますか
-gui.xaero_share_msg2=秘密の場所を晒さないように気を付けてください
-gui.xaero_roof=天井
-gui.xaero_show_light_level=足元の明るさの表示
-gui.xaero_waypoint_name=ウェイポイント名
-gui.xaero_show_time=ゲーム内時間の表記
-gui.xaero_24h=24h
-gui.xaero_12h=12h
-gui.xaero_temporary=仮
-gui.xaero_restore=元に戻す
-gui.xaero_close=閉じる
-gui.xaero_teleportation=テレポート
-gui.xaero_teleportation_tooltip=一度無効にすると、設定ファイルを修正しない限り有効には戻せません！
-gui.xaero_use_multiworld_tooltip=無効にするのは、 サーバーがシンプルな１ワールド （ロビーやゲームモードが異なるワールドが無い） 構成の時だけにしてください。 このようなサーバでは 複数ワールドの検出が エラーの原因になり得ます。 サーバ側へのmod導入で問題の発生を防げます。
-gui.xaero_world_teleport_command=テレポートのコマンド
-gui.xaero_use_default=デフォルトを使う
-gui.xaero_centered_enlarged=拡大時に画面中央へ表示する
-gui.xaero_zoomed_out_enlarged=拡大時にズームアウトする
-gui.xaero_sort=並び順
-gui.xaero_sort_reversed=逆順
-gui.xaero_sort_unsorted=なし
-gui.xaero_sort_name=名前
-gui.xaero_sort_symbol=頭文字
-gui.xaero_sort_distance=距離
-gui.xaero_box_entity_amount=エンティティの種類ごとの上限
-gui.xaero_box_always_distance=ウェイポイントの近くに居ても距離を表示します。 "ウェイポイントの距離を表示"の設定が優先されます。
-gui.xaero_box_cave_zoom=洞窟マップモードに切り替わった時の表示ズーム倍率
-gui.xaero_box_entity_depth=高度差が大きい時にエンティティのアイコンを暗く表示します
-gui.xaero_box_height_limit=エンティティを表示する高度差の制限値を設定します
-gui.xaero_minimap_text_align=テキスト情報の表示位置
-gui.xaero_center=中央寄せ
-gui.xaero_left=左寄せ
-gui.xaero_right=右寄せ
-gui.xaero_show_angles=現在の視線方向を表示
-gui.xaero_box_teleport_default_command=ウェイポイントの設定メニューで サーバごとのテレポートコマンドが指定されていない時に 使用されるデフォルトのテレポートコマンドを指定します
-gui.xaero_waypoints_edit_mode_individually=個別
-gui.xaero_waypoints_edit_mode_all=全件
-gui.xaero_compass=方角
-gui.xaero_main_entity_as=自身のアイコン
-gui.xaero_arrow=矢羽根
-gui.xaero_dot=ドット
-gui.xaero_crosshair=クロスヘア
-gui.xaero_player_arrow_opacity=プレイヤーアイコンの不透過度
-gui.xaero_error_loading_properties=サーバのミニマップ設定の読み込みエラーが発生しました。もう一度試してください
+{
+	"gui.xaero_confirm" : "保存",
+	"gui.xaero_cancel" : "キャンセル",
+	"gui.xaero_back" : "戻る",
+	"gui.xaero_delete" : "削除",
+	"gui.xaero_OK" : "OK",
+	"gui.xaero_add_edit" : "追加/編集",
+	"gui.xaero_new_waypoint" : "新規ウェイポイント",
+	"gui.xaero_initial" : "短縮表示",
+	"gui.xaero_edit_waypoint" : "ウェイポイントを編集",
+	"gui.xaero_armour_status_settings" : "防具表示の設定",
+	"gui.xaero_choose_a_preset" : "プリセットを選択",
+	"gui.xaero_choose_an_interface" : "インターフェースを選択",
+	"gui.xaero_armour_status" : "防具の表示",
+	"gui.xaero_notifications" : "通知",
+	"gui.xaero_minimap" : "ミニマップ",
+	"gui.xaero_miscellaneous" : "その他",
+	"gui.xaero_edit_mode" : "編集モード",
+	"gui.xaero_instructions" : "ヘルプ",
+	"gui.xaero_not_ingame" : "編集モードを使うにはゲーム内にいる必要があります!",
+	"gui.xaero_welcome_edit_mode" : "編集モード",
+	"gui.xaero_howto_select" : "左クリック: 選択",
+	"gui.xaero_howto_drag" : "ドラッグ: 移動",
+	"gui.xaero_howto_deselect" : "右クリック: 選択を解除",
+	"gui.xaero_howto_center" : "Cキー: 中央へ移動、戻す",
+	"gui.xaero_different_centered" : "* 中央に移動させたときに形が変わるものもある",
+	"gui.xaero_howto_flip" : "Fキー: 反転",
+	"gui.xaero_howto_settings" : "Sキー: 選択されたものの設定を開く",
+	"gui.xaero_howto_preset" : "\"プリセットを選択\" ボタン: プリセットを選ぶ",
+	"gui.xaero_howto_save" : "\"保存\" ボタン: 変更を保存",
+	"gui.xaero_howto_cancel" : "\"キャンセル\" ボタン: 変更を破棄",
+	"gui.xaero_minimap_settings" : "Xaero's minimapの設定",
+	"gui.xaero_miscellaneous_settings" : "その他の設定",
+	"gui.xaero_notification_settings" : "通知の設定",
+	"gui.xaero_better_pvp_settings" : "Better PvPの設定",
+	"gui.xaero_server_disabled" : "サーバーが一部のModの機能を無効にしている可能性があります",
+	"gui.xaero_waypoints" : "ウェイポイント",
+	"gui.xaero_box_potion_effects" : "ポーション効果の表示と残り時間の表示",
+	"gui.xaero_box_armour_status" : "防具と手に持っているアイテムの表示",
+	"gui.xaero_box_sprint" : "ダッシュキー(キー設定から変更可能)のみでダッシュができるようにする",
+	"gui.xaero_box_sneak" : "スニーク状態の切り替え",
+	"gui.xaero_box_notifications" : "空腹、低HP、爆発、矢などの通知",
+	"gui.xaero_box_xp" : "経験値を取得したり失ったりしたときに画面上に通知",
+	"gui.xaero_box_quick_use" : "キー(キー設定から変更可能)を押すと ホットバー(インベントリの1番下)にある アイテムを右クリックすることができる。 押し続けると右クリックし続けている状態になる。",
+	"gui.xaero_box_minimap" : "周囲の地図とエンティティ表示(プレイヤー、Mob、アイテムなど)",
+	"gui.xaero_centered" : "中央:",
+	"gui.xaero_press_c" : "(Cキーを押す)",
+	"gui.xaero_flipped" : "反転:",
+	"gui.xaero_press_f" : "(Fキーを押す)",
+	"gui.xaero_preset_fancy" : "ファンシー",
+	"gui.xaero_preset_classic" : "クラシック",
+	"gui.xaero_preset_social" : "ソーシャル",
+	"gui.xaero_potion_status" : "ポーション効果",
+	"gui.xaero_archery_status" : "残りの矢の数",
+	"gui.xaero_sprint" : "ダッシュキー",
+	"gui.xaero_sneak" : "トグルスニーク",
+	"gui.xaero_enchants_color" : "エンチャントの色",
+	"gui.xaero_durability" : "耐久度",
+	"gui.xaero_hunger_setting" : "空腹の通知",
+	"gui.xaero_hp_setting" : "低HPの通知",
+	"gui.xaero_explosion_setting" : "爆発の通知",
+	"gui.xaero_being_shot_setting" : "矢の通知",
+	"gui.xaero_xp_setting" : "経験値の表示",
+	"gui.xaero_custom_settings" : "詳細設定",
+	"gui.xaero_reset_defaults" : "設定をデフォルトに戻す",
+	"gui.xaero_quick_use" : "クイック右クリック",
+	"gui.xaero_show_enchants" : "エンチャントの表示",
+	"gui.xaero_cave_maps" : "洞窟",
+	"gui.xaero_display_teams" : "他のチームの表示",
+	"gui.xaero_display_waypoints" : "マップ上のウェイポイント",
+	"gui.xaero_display_players" : "プレイヤーの表示",
+	"gui.xaero_display_mobs" : "Mobの表示",
+	"gui.xaero_display_items" : "アイテムの表示",
+	"gui.xaero_display_other" : "その他の表示",
+	"gui.xaero_zoom" : "ズーム倍率",
+	"gui.xaero_minimap_size" : "サイズ",
+	"gui.xaero_entity_amount" : "エンティティの数",
+	"gui.xaero_black" : "黒",
+	"gui.xaero_dark_blue" : "濃い青",
+	"gui.xaero_dark_green" : "濃い緑",
+	"gui.xaero_dark_aqua" : "濃い水色",
+	"gui.xaero_dark_red" : "濃い赤",
+	"gui.xaero_dark_purple" : "濃い紫",
+	"gui.xaero_gold" : "オレンジ",
+	"gui.xaero_gray" : "灰色",
+	"gui.xaero_dark_gray" : "濃い灰色",
+	"gui.xaero_blue" : "青",
+	"gui.xaero_green" : "緑",
+	"gui.xaero_aqua" : "水色",
+	"gui.xaero_red" : "赤",
+	"gui.xaero_purple" : "紫",
+	"gui.xaero_yellow" : "黄色",
+	"gui.xaero_white" : "白",
+	"gui.xaero_percent" : "パーセント",
+	"gui.xaero_numeral" : "数字",
+	"gui.xaero_both" : "両方",
+	"gui.xaero_tiny" : "極小",
+	"gui.xaero_small" : "小",
+	"gui.xaero_medium" : "中",
+	"gui.xaero_large" : "大",
+	"gui.xaero_pvp_sprint" : "PvPダッシュ",
+	"gui.xaero_quick_eat" : "クイック満腹",
+	"gui.xaero_toggle_sneak" : "トグルスニーク",
+	"gui.xaero_quick_use_1" : "ホットバー 1 を右クリック",
+	"gui.xaero_quick_use_2" : "ホットバー 2 を右クリック",
+	"gui.xaero_quick_use_3" : "ホットバー 3 を右クリック",
+	"gui.xaero_quick_use_4" : "ホットバー 4 を右クリック",
+	"gui.xaero_quick_use_5" : "ホットバー 5 を右クリック",
+	"gui.xaero_quick_use_6" : "ホットバー 6 を右クリック",
+	"gui.xaero_quick_use_7" : "ホットバー 7 を右クリック",
+	"gui.xaero_quick_use_8" : "ホットバー 8 を右クリック",
+	"gui.xaero_quick_use_9" : "ホットバー 9 を右クリック",
+	"gui.xaero_zoom_in" : "ミニマップを拡大",
+	"gui.xaero_zoom_out" : "ミニマップを縮小",
+	"gui.xaero_on" : "ON",
+	"gui.xaero_off" : "OFF",
+	"gui.xaero_restores" : "回復",
+	"gui.xaero_preset_topleft" : "左上",
+	"gui.xaero_preset_topright" : "右上",
+	"gui.xaero_waypoint_teleport" : "テレポート",
+	"gui.xaero_waypoints_key" : "ウェイポイント",
+	"gui.xaero_display_coords" : "座標の表示",
+	"gui.xaero_disable_enable" : "無効にする/有効にする",
+	"gui.xaero_disabled" : "無効",
+	"gui.xaero_minimap_guide" : "ミニマップをドラッグして移動",
+	"gui.xaero_change_position" : "位置を変更",
+	"gui.xaero_preset_bottom_left" : "左下",
+	"gui.xaero_preset_bottom_right" : "右下",
+	"gui.xaero_ingame_waypoints" : "ゲーム内のウェイポイント",
+	"gui.xaero_next" : "次 >>",
+	"gui.xaero_previous" : "<< 前",
+	"gui.xaero_lock_north" : "北を上に固定",
+	"gui.xaero_deathpoint" : "最新の死亡地点",
+	"gui.xaero_deathpoint_old" : "古い死亡地点",
+	"gui.xaero_deathpoints" : "死亡地点",
+	"gui.xaero_chunkgrid" : "チャンクの枠",
+	"gui.xaero_entity_colours" : "エンティティの色",
+	"gui.xaero_players" : "プレイヤー",
+	"gui.xaero_mobs" : "友好的生物",
+	"gui.xaero_hostile" : "敵対的生物",
+	"gui.xaero_items" : "アイテム",
+	"gui.xaero_other" : "その他のエンティティ",
+	"gui.xaero_hunger_low" : "空腹",
+	"gui.xaero_hp_low" : "低HP",
+	"gui.xaero_enlarge_map" : "ミニマップのサイズを拡大",
+	"gui.xaero_fbo" : "ベータ",
+	"gui.xaero_potion_status_settings" : "ポーション効果の設定",
+	"gui.xaero_potion_names" : "ポーション効果の名前",
+	"gui.xaero_opacity" : "透明度",
+	"gui.xaero_slime_chunks" : "スライムチャンク",
+	"gui.xaero_unlimited" : "無制限",
+	"gui.xaero_old_deathpoints" : "古い死亡地点を保つ",
+	"gui.xaero_toggle_map" : "ミニマップのON/OFF",
+	"gui.xaero_antialiasing" : "アンチエイリアス",
+	"gui.xaero_safe_mode" : "セーフモード",
+	"gui.xaero_transfer" : "転送",
+	"gui.xaero_transfer_all" : "すべてのウェイポイントを転送",
+	"gui.xaero_clear" : "セットをクリア",
+	"gui.xaero_from" : "転送元",
+	"gui.xaero_to" : "転送先",
+	"gui.xaero_used_seed" : "シード値:",
+	"gui.xaero_show_distance" : "距離の表示",
+	"gui.xaero_waypoints_scale" : "ウェイポイントの大きさ",
+	"gui.xaero_block_colours" : "ブロックの色",
+	"gui.xaero_accurate" : "正確",
+	"gui.xaero_vanilla" : "バニラ",
+	"gui.xaero_lighting" : "明るさ",
+	"gui.xaero_air_setting" : "低酸素の通知",
+	"gui.xaero_air_low" : "低酸素",
+	"gui.xaero_looking_at" : "見ているもののみ",
+	"gui.xaero_all" : "すべて",
+	"gui.xaero_display_redstone" : "レッドストーンの表示",
+	"gui.xaero_clear_set_message" : "このセットをクリアしてもよろしいですか：",
+	"gui.xaero_clear_set_message2" : "すべてのウェイポイントがこのセットから削除されます。",
+	"gui.xaero_default" : "デフォルト",
+	"gui.xaero_create_set" : "新規セットを作成",
+	"gui.xaero_world" : "ワールド",
+	"gui.xaero_waypoint_set" : "セット",
+	"gui.xaero_delete_set" : "セットを削除",
+	"gui.xaero_delete_set_message" : "このセットを削除してもよろしいですか：",
+	"gui.xaero_delete_set_message2" : "このセットがワールドから削除されます。",
+	"gui.xaero_toggle_waypoints" : "ウェイポイントのON/OFF",
+	"gui.xaero_dots_size" : "エンティティの点のサイズ",
+	"gui.xaero_entity_info" : "エンティティ情報",
+	"gui.xaero_toggle_slime" : "スライムチャンクのON/OFF",
+	"gui.xaero_toggle_grid" : "チャンクの枠のON/OFF",
+	"gui.xaero_compass_over_wp" : "ウェイポイントに方角を重ねる",
+	"gui.xaero_display_hostile" : "敵対モブの表示",
+	"gui.xaero_box_entity_info" : "カーソルを合わせたエンティティやプレイヤーの情報を表示",
+	"gui.xaero_entity_info_settings" : "エンティティ情報の設定",
+	"gui.xaero_entity_info_stay" : "表示させる時間",
+	"gui.xaero_entity_info_distance" : "表示する距離",
+	"gui.xaero_entity_info_max_hearts" : "最大HP",
+	"gui.xaero_current_biome" : "現在のバイオームを表示",
+	"gui.xaero_auto_map_size" : "自動",
+	"gui.xaero_reset_message" : "設定をリセットしてもよろしいですか？",
+	"gui.xaero_reset_message2" : "この操作は元に戻せません。",
+	"gui.xaero_entity_info_numbers" : "体力を数字で表示",
+	"gui.xaero_yaw" : "角度",
+	"gui.xaero_true" : "入",
+	"gui.xaero_false" : "切",
+	"gui.xaero_team_colours" : "チームの色",
+	"gui.xaero_instant_waypoint" : "クイックウェイポイント",
+	"gui.xaero_entity_depth" : "エンティティの高さを表示",
+	"gui.xaero_show_full_amount" : "持っているアイテムの合計",
+	"gui.xaero_show_flowers" : "花を表示",
+	"gui.xaero_show_entity_model" : "エンティティを表示",
+	"gui.xaero_waypoint_names" : "ウェイポイントの距離を表示",
+	"gui.xaero_waypoints_distance" : "ウェイポイント表示の最大距離",
+	"gui.xaero_teleport_default_command" : "テレポートのコマンド",
+	"gui.xaero_waypoints_distance_min" : "最小描画距離",
+	"gui.xaero_other_teams" : "他のチーム",
+	"gui.xaero_entity_info_armour_numbers" : "防御力を数字で表示",
+	"gui.xaero_entity_info_armour" : "防御力の表示",
+	"gui.xaero_arrow_scale" : "矢印の大きさ",
+	"gui.xaero_arrow_colour" : "矢印の色",
+	"gui.xaero_smooth_dots" : "ドットを滑らかにする",
+	"gui.xaero_cave_zoom" : "洞窟でズームインする",
+	"gui.xaero_safe_mode_box" : "デフォルトのOpenGLベース(GPU)のものの代わりに、このmodと同等なJavaベースの(CPU)を使用します。 セーフモードはモッドが機能しない場合のプランBです。セーフモードでは全ての機能を有効にしません。必要でない限り使わないでください。",
+	"gui.xaero_height_limit" : "エンティティを表示する高度差上限",
+	"gui.xaero_world_map" : "ワールドマップ",
+	"gui.xaero_use_world_map" : "ワールドマップモッドのチャンクを利用する",
+	"gui.xaero_patron_capes" : "Patreonマント",
+	"gui.xaero_entity_radar" : "エンティティ・レーダー",
+	"gui.xaero_entity_info_potion_effects" : "ポーション効果（シングル限定）",
+	"gui.xaero_entity_info_potion_effects_scale" : "ポーション効果の大きさ",
+	"gui.xaero_terrain_depth" : "地形の立体表示",
+	"gui.xaero_terrain_slopes" : "斜面の描画",
+	"gui.xaero_block_transparency" : "ブロックの透過",
+	"gui.xaero_team" : "チーム",
+	"gui.xaero_world_server" : "ワールド/サーバー",
+	"gui.xaero_subworld_dimension" : "サブワールド/ディメンション",
+	"gui.xaero_switch_waypoint_set" : "ウェイポイントセットの切り替え",
+	"gui.xaero_waypoint_opacity_ingame" : "ゲーム内ウェイポイントの透明度",
+	"gui.xaero_waypoint_opacity_map" : "マップ上ウェイポイントの透明度",
+	"gui.xaero_hide_world_names" : "IP/ワールド名を隠す",
+	"gui.xaero_open_slime" : "キーを押して開く",
+	"gui.xaero_options" : "設定",
+	"gui.xaero_make_automatic" : "ワールド/サーバーを自動で作成する",
+	"gui.xaero_make_automatic_msg1" : "よろしいですか？",
+	"gui.xaero_make_automatic_msg2" : "選択されたワールド/サーバー間で全てのウェイポイントを入れ替えます。 このシミュレートは選択されたワールド/サーバーを自動化します。 何をしているのか理解してから実行してください。",
+	"gui.xaero_make_multi_automatic" : "サブワールドを自動で作成する",
+	"gui.xaero_make_multi_automatic_msg1" : "よろしいですか？",
+	"gui.xaero_make_multi_automatic_msg2" : "選択されたサブワールド間で全てのウェイポイントを入れ替えます。 このシミュレートは選択されたサブワールドを自動化します。 何をしているのか理解してから実行してください。",
+	"gui.xaero_delete_world" : "ワールド/サーバーの削除",
+	"gui.xaero_delete_world_msg1" : "選択されたワールド/サーバーのウェイポイント情報を全て削除しますか？",
+	"gui.xaero_delete_world_msg2" : "実行すると取り消せません。本当によろしいですか",
+	"gui.xaero_delete_multi_world" : "サブワールドの削除",
+	"gui.xaero_delete_multi_world_msg1" : "選択されたサブワールドのウェイポイント情報を全て削除しますか？",
+	"gui.xaero_delete_multi_world_msg2" : "実行すると取り消せません。本当によろしいですか",
+	"gui.xaero_always_show_distance" : "ウェイポイントの距離を常に表示",
+	"gui.xaero_item_tooltip" : "アイテムツールチップ",
+	"gui.xaero_entity_tooltip_settings" : "ツールチップの設定",
+	"gui.xaero_item_tooltip_min_lines" : "最小行数",
+	"gui.xaero_item_tooltip_time" : "表示秒数",
+	"gui.xaero_multiply_all_by_8" : "サブワールドの座標倍率：* 8",
+	"gui.xaero_divide_all_by_8" : "サブワールドの座標倍率： / 8",
+	"gui.xaero_multiply_msg1" : "この項目は間違ったウェイポイントの座標を修正する際に使われます。",
+	"gui.xaero_multiply_msg2" : "サブワールドの座標倍率を「8倍」に設定しますか？",
+	"gui.xaero_divide_msg2" : "サブワールドの座標倍率を「8分の1」に設定しますか？",
+	"gui.xaero_share" : "共有",
+	"gui.xaero_share_msg1" : "本当にチャットで§c全員に§fこのウェイポイントを共有しますか",
+	"gui.xaero_share_msg2" : "秘密の場所を晒してしまわないように気を付けてください",
+	"gui.xaero_roof" : "天井",
+	"gui.xaero_partial" : "一部",
+	"gui.xaero_full" : "全体",
+	"gui.xaero_show_light_level" : "足元の明るさの表示",
+	"gui.xaero_up" : "上",
+	"gui.xaero_down" : "下",
+	"gui.xaero_display_all_sets" : "全てのウェイポイントセットの描画を切り替える",
+	"gui.xaero_waypoint_name" : "ウェイポイント名",
+	"gui.xaero_set_name" : "名前の変更",
+	"gui.xaero_render_layer" : "オーバーレイ描画レイヤー",
+	"gui.xaero_visit_needed" : "§e新しい形式に変更する際、初めにこのディメンションを訪れる必要があります！",
+	"gui.xaero_mp_cross_tp" : "MPディメンション間テレポート",
+	"gui.xaero_cross_tp" : "ディメンション間テレポート",
+	"gui.xaero_unreachable_dimension" : "到達不能ディメンション",
+	"gui.xaero_show_time" : "ゲーム内時間の表記",
+	"gui.xaero_24h" : "24時間",
+	"gui.xaero_12h" : "12時間",
+	"gui.xaero_temporary" : "仮",
+	"gui.xaero_restore" : "元に戻す",
+	"gui.xaero_biomes_vanilla" : "バニラ式バイオーム色モード",
+	"gui.xaero_potion_effects_blink" : "Runs Outした際の点滅",
+	"gui.xaero_use_multiworld" : "マルチワールドの検出",
+	"gui.xaero_close" : "閉じる",
+	"gui.xaero_waypoint_distance_visibility_angle" : "ウェイポイントとの距離を表示する水平角度",
+	"gui.xaero_waypoint_distance_vertical_visibility_angle" : "ウェイポイントとの距離を表示する垂直角度",
+	"gui.xaero_teleportation" : "テレポート",
+	"gui.xaero_teleportation_tooltip" : "一度無効にすると、設定ファイルを修正しない限り有効には戻せません！",
+	"gui.xaero_use_multiworld_tooltip" : "無効にするのは、 サーバーがシンプルな１ワールド （ロビーやゲームモードが異なるワールドが無い） 構成の時だけにしてください。 このようなサーバでは 複数ワールドの検出が エラーの原因になり得ます。 サーバ側へのmod導入で問題の発生を防げます。",
+	"gui.xaero_world_teleport_command" : "テレポートのコマンド",
+	"gui.xaero_use_default" : "デフォルトを使う",
+	"gui.xaero_centered_enlarged" : "拡大時に画面中央へ表示する",
+	"gui.xaero_zoomed_out_enlarged" : "拡大時にズームアウトする",
+	"gui.xaero_sort" : "並び順",
+	"gui.xaero_sort_reversed" : "逆順",
+	"gui.xaero_sort_unsorted" : "なし",
+	"gui.xaero_sort_name" : "名前",
+	"gui.xaero_sort_symbol" : "頭文字",
+	"gui.xaero_sort_distance" : "距離",
+	"gui.xaero_box_cave_maps" : "地下にある洞窟や建物の構造を表示するために、表面よりも深いブロックを操作するマッピングモードです。 このサイズを超える固体ブロックの正方形をプレイヤーの頭上で検知したときに有効化されます。",
+	"gui.xaero_box_cave_maps2" : "地下にある洞窟や建物の構造を表示するために、表面よりも深いブロックを操作するマッピングモードです。 このサイズを超える固体ブロックの正方形をプレイヤーの頭上で検知したときに有効化されます。 この固体ブロックは同じYにある必要はありません。",
+	"gui.xaero_box_entity_amount" : "エンティティの種類ごとの上限",
+	"gui.xaero_box_distance" : "ゲーム内で距離を表示するウェイポイントを指定します。",
+	"gui.xaero_box_distance2" : "ゲーム内で距離を表示するウェイポイントを指定します。 一度の複数のウェイポイントに表示されることを設定するものではありません。 そのような用途には\"複数ウェイポイントの距離表示\"を利用してください。",
+	"gui.xaero_box_always_distance" : "ウェイポイントの近くに居ても距離を表示します。 \"ウェイポイントの距離を表示\"の設定が優先されます。",
+	"gui.xaero_box_arrow_scale" : "回転しないミニマップなどで使用される矢印の縮尺",
+	"gui.xaero_box_arrow_color" : "回転しないミニマップなどで使用される矢印の色",
+	"gui.xaero_box_cave_zoom" : "洞窟マップモードに切り替わった時の表示ズーム倍率",
+	"gui.xaero_box_entity_depth" : "高度差が大きい時にエンティティのアイコンを暗く表示します",
+	"gui.xaero_box_height_limit" : "エンティティを表示する高度差の制限値を設定します",
+	"gui.xaero_toggle_map_waypoints" : "マップ上ウェイポイントの表示切り替え",
+	"gui.xaero_always_entity_nametags" : "エンティティの名前を常に表示する",
+	"gui.xaero_minimap_text_align" : "テキスト情報の表示位置",
+	"gui.xaero_center" : "中央寄せ",
+	"gui.xaero_left" : "左寄せ",
+	"gui.xaero_right" : "右寄せ",
+	"gui.xaero_show_angles" : "現在の視線方向を表示",
+	"gui.xaero_box_always_entity_nametags" : "\"エンティティレーダー\"設定に関わらず、エンティティの名前を描画します。",
+	"gui.xaero_box_teleport_default_command" : "ウェイポイントの設定メニューで サーバごとのテレポートコマンドが指定されていない時に 使用される既定のテレポートコマンドを指定します",
+	"gui.xaero_waypoints_edit_mode_individually" : "個別",
+	"gui.xaero_waypoints_edit_mode_all" : "全件",
+	"gui.xaero_compass" : "方角表示",
+	"gui.xaero_cave_maps_depth" : "洞窟モードを発動する深さ",
+	"gui.xaero_waypoints_edit_reset" : "リセット",
+	"gui.xaero_main_entity_as" : "自分のアイコン",
+	"gui.xaero_arrow" : "矢印",
+	"gui.xaero_dot" : "ドット",
+	"gui.xaero_crosshair" : "クロスヘア",
+	"gui.xaero_teleport_coordinates_hidden" : "ウェイポイントの座標が開示されてしまうためテレポートできません。 \"ウェイポイント座標の秘匿\"を無効化してください。",
+	"gui.xaero_hide_wp_coords" : "ウェイポイント座標の秘匿",
+	"gui.xaero_waypoints_edit_show" : "開示",
+	"gui.xaero_waypoints_edit_hide" : "秘匿",
+	"gui.xaero_teleport_anyway" : "強制テレポート",
+	"gui.xaero_teleport_shows_coordinates" : "ウェイポイント座標が開示されます",
+	"gui.xaero_render_all_wp_sets" : "全てのウェイポイントセットを描画する",
+	"gui.xaero_waypoints_global" : "グローバル",
+	"gui.xaero_waypoints_local" : "ローカル",
+	"gui.xaero_player_arrow_opacity" : "プレイヤーアイコンの不透過度",
+	"gui.xaero_box_waypoints_distance" : "ローカルウェイポイントの最大描画距離。グローバルウェイポイントには影響しません。",
+	"gui.xaero_connect_with_auto" : "サブワールドとの接続を追加する",
+	"gui.xaero_disconnect_from_auto" : "サブワールドとの接続を削除する",
+	"gui.xaero_world_connection_tooltip" : "選択したサブワールドを現在のサブワールドに自動で接続/切断します。 同じサブワールド、もしくは同じセーブデータからのサブワールドのみを接続します。 たとえば、バニラネザーポータルがサブワールドAからBに移動する時、それらを安全に接続できます。 現在のサブワールドに接続されている他のサブワールドは常にリストの一番上にあり、記号*でマークされています。",
+	"gui.xaero_connect_with_auto_msg" : "サブワールド間に接続を作成しますか？",
+	"gui.xaero_disconnect_from_auto_msg" : "サブワールド間の接続を削除しますか？",
+	"gui.xaero_teleport_not_connected" : "現在自動接続のされていないサブワールドへテレポート仕様としています。このサブワールドが自動接続されているものと同じサブサーバー/サブワールドからであることが確実な場合は、 ウェイポイント画面→設定→サブワールド接続の追加 を利用することでテレポートが可能になります。ただし誤ったサブワールドと接続すると窒息・落下死の危険があるため、注意して操作してください。",
+	"gui.xaero_ignore_heightmaps" : "サーバーの高さマッピングを無視する",
+	"gui.xaero_box_ignore_heightmaps" : "一部のサーバーは高さに独自の値を使用しています。これによりマップの描画に不具合が発生する場合があります。 またmodの大量に導入されたシングルプレイでも同様の事態が発生することがあります。 この設定を有効にすると、負荷が増大する代わりに問題が解決される場合があります。必要がない限り使用しないでください。反映には再起動が必要になります。",
+	"gui.xaero_error_loading_properties" : "サーバのミニマップ設定の読み込みエラーが発生しました。もう一度試してください",
+	"gui.xaero_light_block" : "ブロックによる明るさのみ",
+	"gui.xaero_light_sky" : "空による明るさのみ",
+	"gui.xaero_light_both" : "全ての光",
+	"gui.xaero_waypoints_bottom" : "新しいウェイポイントを末尾に追加する",
+	"gui.xaero_box_waypoints_bottom" : "新しく作成されたウェイポイントをウェイポイントリスト内でデフォルト順の末尾に追加します。",
+	"gui.xaero_armour_main_hand" : "利き手のアイテム",
+	"gui.xaero_armour_off_hand" : "オフハンドのアイテム",
+	"gui.xaero_minimap_shape" : "形状",
+	"gui.xaero_minimap_shape_square" : "正方形",
+	"gui.xaero_minimap_shape_circle" : "円形",
+	"gui.xaero_slopes_legacy" : "レガシー",
+	"gui.xaero_slopes_default" : "デフォルト",
+	"gui.xaero_names_list" : "プレイヤー一覧",
+	"gui.xaero_names_always" : "常に",
+	"gui.xaero_names_off" : "OFF",
+	"gui.xaero_entity_radar_type" : "種類：",
+	"gui.xaero_entity_radar_color" : "色：",
+	"gui.xaero_entity_radar_visiblity" : "可視性：",
+	"gui.xaero_entity_radar_names" : "名前：",
+	"gui.xaero_entity_radar_icons" : "アイコン/ヘッド：",
+	"gui.xaero_box_entity_radar_names" : "ドットまたはアイコン/ヘッドの下にエンティティの名前を表示します。 \n \n \"プレイヤー一覧\"を用いると、TABキーなどで\"プレイヤー一覧\"を表示している間だけ表示されるようになります。",
+	"gui.xaero_light_overlay_status" : "明るさ表示を利用する",
+	"gui.xaero_light_overlay" : "明るさ表示",
+	"gui.xaero_light_overlay_type" : "明るさ",
+	"gui.xaero_light_overlay_color" : "色",
+	"gui.xaero_light_overlay_max_light" : "最大の明るさ",
+	"gui.xaero_light_overlay_min_light" : "最小の明るさ",
+	"gui.xaero_toggle_light_overlay" : "明るさ表示の切り替え",
+	"gui.xaero_box_light_overlay_type" : "このオーバーレイを使用するとゲームのパフォーマンスが悪くなる可能性があります。 現在はワールドマップモッドのチャンクを利用しておらず、マップの更新頻度が高くなっているためです。 常にオンにはしないでください。",
+	"gui.xaero_day" : "経過日",
+	"gui.xaero_tamed" : "テイムされたモブ",
+	"gui.xaero_untamed_color" : "テイムされていないモブ",
+	"gui.xaero_icons_list" : "プレイヤー一覧",
+	"gui.xaero_icons_always" : "常に",
+	"gui.xaero_icons_off" : "アイコンを表示しない",
+	"gui.xaero_box_entity_radar_icons" : "ドットの代わりにエンティティのアイコンを表示します。 \n \n \"プレイヤー一覧\"を用いると、TABキーなどで\"プレイヤー一覧\"を表示している間だけ表示されるようになります。",
+	"gui.xaero_dot_name_scale" : "ドット名の大きさ",
+	"gui.xaero_entity_heads_scale" : "エンティティアイコンの大きさ",
+	"gui.xaero_box_minimap_size" : "表示範囲に影響するミニマップフレームの大きさです。 180を超えると強制的に回転がオフになります(\"北を上に固定\"に相当)  \n \n \"自動\"に設定するときはバーを左端に移動してください。。 \n \n 古いバージョンとの対応： \n 極小 - 57 \n 小 - 85 \n 中 - 113 \n 大 - 169",
+	"gui.xaero_auto_clamp_depth" : "自動",
+	"gui.xaero_waypoints_clamp_depth" : "クランプの深さ",
+	"gui.xaero_waypoints_distance_scale" : "ウェイポイントの距離表示の大きさ",
+	"gui.xaero_waypoints_name_scale" : "ウェイポイント名表示の大きさ",
+	"gui.xaero_box_waypoints_clamp_depth" : "ゲーム内ウェイポイントから離れてもウェイポイントが小さくならない距離。 画面上でとても大きく/小さく表示されるウェイポイントを作成する際にこの設定を利用してください。 \"ゲーム内ウェイポイントの大きさ\"設定によるウェイポイントに近づいたときの大きさにも影響を与えます。 \"自動\"を利用するときはバーを左端に移動してください。 自動を利用したときは視野角と高さを考慮して最適な値に調整しようとします。 古いバージョンとの対応： \n\n クランプの深さ： 12 \n ゲーム内倍率： 2.5 \n 名称テキスト倍率： 0.5 \n 距離テキスト倍率： 0.8",
+	"gui.xaero_box_waypoints_distance_scale" : "ゲーム内ウェイポイントまでの距離を表示する際の大きさです。 古いバージョンとの対応： \n\n クランプの深さ： 12 \n ゲーム内倍率： 2.5 \n 名称テキスト倍率： 0.5 \n 距離テキスト倍率： 0.8",
+	"gui.xaero_box_waypoints_name_scale" : "ゲーム内ウェイポイントの名称を表示する際の大きさです。 古いバージョンとの対応： \n\n クランプの深さ： 12 \n ゲーム内倍率： 2.5 \n 名称テキスト倍率： 0.5 \n 距離テキスト倍率： 0.8",
+	"gui.xaero_box_waypoints_scale" : "ゲーム内ウェイポイントの大きさです。この設定を利用して、近く/遠くを問わず全てのウェイポイントの表示倍率を変更します。 古いバージョンとの対応： \n\n クランプの深さ： 12 \n ゲーム内倍率： 2.5 \n 名称テキスト倍率： 0.5 \n 距離テキスト倍率： 0.8",
+	"gui.xaero_waypoint_shared" : "%1$s がウェイポイント \"%2$s\" を共有しました！ §2§n[保存]",
+	"gui.xaero_waypoint_shared_dimension" : "%1$s が %3$s にあるウェイポイント \"%2$s\" を共有しました！ §2§n[保存]",
+	"gui.xaero_waypoint_unknown_dimension" : "不明なディメンション",
+	"gui.xaero_uses_worldmap_value" : "この設定値はワールドマップの設定値と同期します。",
+	"gui.xaero_dots_style" : "エンティティドットのスタイル",
+	"gui.xaero_dots_style_default" : "デフォルト",
+	"gui.xaero_dots_style_legacy" : "レガシー",
+	"gui.xaero_slopes_default_3d" : "3D",
+	"gui.xaero_slopes_default_2d" : "2D",
+	"gui.xaero_ui_scale" : "UIの大きさ",
+	"gui.xaero_ui_scale_auto" : "自動",
+	"gui.xaero_ui_scale_mc" : "マインクラフトの設定に従う",
+	"gui.xaero_box_ui_scale" : "テキストまたはその他のミニマップ要素の倍率です。ズームインやサイズ変更の設定には個別の項目があります。",
+	"gui.xaero_no_durability" : "なし",
+	"gui.xaero_pushbox_normal" : "通常",
+	"gui.xaero_pushbox_screen_height" : "スクリーンの高さ",
+	"gui.xaero_pushbox_boss_health" : "ボスの体力バーによるミニマップの移動",
+	"gui.xaero_pushbox_potion_effects" : "ポーションアイコンによるミニマップの移動",
+	"gui.xaero_box_pushbox_boss_health" : "バニラボスの体力バーを隠さないために透明なボックスを配置し、ミニマップを移動させます。 \"通常\"に設定するとボスバーの高さだけ移動させます。 \"画面の高さ\"に設定すると画面の高さいっぱいに透明なボックスが配置され、衝突するものは通常と同じ高さだけ移動します。 これは複数行の体力バーが存在するときに有効です。",
+	"gui.xaero_box_pushbox_potion_effects" : "ポーションアイコンを隠さないために透明なボックスを配置し、ミニマップを移動させます。 \"通常\"に設定するとボスバーの高さだけ移動させます。 \"画面の高さ\"に設定すると画面の高さいっぱいに透明なボックスが配置され、衝突するものは通常と同じ高さだけ移動します。 これは複数行の体力バーが存在するときに有効です。",
+	"gui.xaero_held_centered_position" : "中央に配置された際にアイテムを保持する",
+	"gui.xaero_held_centered_position_screen_edges" : "角",
+	"gui.xaero_held_centered_position_hotbar" : "ホットバー",
+	"gui.xaero_minimap_frame" : "フレームのスタイル",
+	"gui.xaero_minimap_frame_color" : "フレームの色",
+	"gui.xaero_box_minimap_frame_color" : "デフォルト色以外でのミニマップの枠の色",
+	"gui.xaero_minimap_frame_default" : "デフォルト",
+	"gui.xaero_minimap_frame_colored_thick" : "色づき",
+	"gui.xaero_minimap_frame_colored_thin" : "色づき(細)",
+	"gui.xaero_compass_north" : "北",
+	"gui.xaero_compass_east" : "東",
+	"gui.xaero_compass_south" : "南",
+	"gui.xaero_compass_west" : "西",
+	"gui.xaero_compass_scale" : "マップ上方角表示の大きさ",
+	"gui.xaero_box_compass_scale" : "マップ上での東西南北の表示の大きさ",
+	"gui.xaero_minimap_compass_inside_frame" : "マップ上",
+	"gui.xaero_minimap_compass_on_frame" : "フレーム上",
+	"gui.xaero_compass_color" : "方角表示の影",
+	"gui.xaero_box_compass_over_wp2" : "ウェイポイントの上に方角を文字で表示します。 \"方角表示\"設定が\"マップ上\"になっているときのみ機能します。",
+	"effect.xaerominimap.no_minimap" : "ミニマップジャミング",
+	"effect.xaerominimap.no_entity_radar" : "レーダージャミング",
+	"effect.xaerominimap.no_waypoints" : "ウェイポイントジャミング",
+	"effect.xaerominimap.no_cave_maps" : "洞窟モードジャミング",
+	"effect.xaerominimap.no_minimap_harmful" : "ミニマップジャミング",
+	"effect.xaerominimap.no_entity_radar_harmful" : "レーダージャミング",
+	"effect.xaerominimap.no_waypoints_harmful" : "ウェイポイントジャミング",
+	"effect.xaerominimap.no_cave_maps_harmful" : "洞窟モードジャミング",
+	"effect.xaerominimap.no_minimap_beneficial" : "ミニマップジャミング",
+	"effect.xaerominimap.no_entity_radar_beneficial" : "ミニマップジャミング",
+	"effect.xaerominimap.no_waypoints_beneficial" : "ウェイポイントジャミング",
+	"effect.xaerominimap.no_cave_maps_beneficial" : "洞窟モードジャミング",
+	"gui.xaero_radar_item_frames" : "額縁の表示",
+	"gui.xaero_show_dimension_name" : "現在いるディメンションの表示",
+	"gui.xaero_unknown_biome" : "不明なバイオーム",
+	"gui.xaero_light_value" : "光度：%d",
+	"gui.xaero_teleport_y_unknown" : "Y座標が正しくありません。テレポートするにはウェイポイントを編集してください。",
+	"gui.xaero_box_waypoints_distance_scale2" : "ゲーム内ウェイポイントとの距離表示の大きさ",
+	"gui.xaero_box_waypoints_name_scale2" : "ゲーム内ウェイポイントの名前表示の大きさです。",
+	"gui.xaero_box_ingame_waypoint_icon_scale" : "ゲーム内アイコンの大きさ",
+	"gui.xaero_ingame_waypoint_icon_scale" : "ゲーム内アイコンの大きさ",
+	"gui.xaero_ingame_waypoint_close_scale" : "ゲーム内アイコンの至近距離での大きさ",
+	"gui.xaero_box_ingame_waypoint_close_scale" : "ウェイポイントにとても近く近づいたときのウェイポイント名の大きさです。 遠方にあるウェイポイント名の大きさを変更するときは \"ゲーム内アイコンの大きさ\"・ \"ウェイポイントの距離表示の大きさ\"・ \"ウェイポイント名表示の大きさ\" を利用してください。",
+	"gui.xaero_entity_icon_name_fallback" : "アイコンが不明なときのエンティティの名前表示",
+	"gui.xaero_settings_search" : "設定の検索",
+	"gui.xaero_settings_search_placeholder" : "設定の検索...",
+	"gui.xaero_minimap_view_settings" : "表示の設定",
+	"gui.xaero_entity_radar_settings" : "エンティティレーダーの設定",
+	"gui.xaero_entity_radar_categories" : "エンティティカテゴリの設定",
+	"gui.xaero_minimap_block_map_settings" : "ブロックマップの設定",
+	"gui.xaero_overlay_settings" : "オーバーレイの設定",
+	"gui.xaero_minimap_info_settings" : "情報の設定",
+	"gui.xaero_waypoint_settings" : "ウェイポイントの設定",
+	"gui.xaero_minimap_misc_settings" : "その他の設定",
+	"gui.xaero_entity_radar_category" : "カテゴリ：",
+	"gui.xaero_settings_not_found" : "入力に対応する項目が見つかりません！",
+	"gui.xaero_multiple_waypoint_info" : "複数ウェイポイントの距離表示",
+	"gui.xaero_box_multiple_waypoint_info" : "複数のウェイポイントの距離を同時に描画するかどうかを設定します。 デフォルトではクロスヘアに最も近いウェイポイントの距離のみが描画されます。 \"距離の表示\"設定を利用して、距離を表示できるウェイポイントを制限できます。",
+	"gui.xaero_while_sneaking" : "スニーク",
+	"gui.xaero_multiple_waypoints_always" : "常に",
+	"gui.xaero_narrator_select_nothing" : "",
+	"gui.xaero_category_setting_inherit" : "-",
+	"gui.xaero_category_expanded_options" : "%s (オプションを選択してください",
+	"gui.xaero_entity_category_root" : "全て",
+	"gui.xaero_entity_category_living" : "中立",
+	"gui.xaero_entity_category_hostile" : "敵対",
+	"gui.xaero_entity_category_friendly" : "友好",
+	"gui.xaero_entity_category_hostile_tamed" : "テイムされたモブ",
+	"gui.xaero_entity_category_friendly_tamed" : "テイムされたモブ",
+	"gui.xaero_entity_category_players" : "プレイヤー",
+	"gui.xaero_entity_category_same_team" : "同じチームから",
+	"gui.xaero_entity_category_other_teams" : "違うチームから",
+	"gui.xaero_entity_category_items" : "アイテム",
+	"gui.xaero_entity_category_other_entities" : "その他",
+	"gui.xaero_category_settings" : "設定",
+	"gui.xaero_category_include_list" : "含まれるエンティティのリスト",
+	"gui.xaero_box_category_include_list" : "\"自動で含まれるエンティティのリスト\"よりも優先されるエンティティのリスト",
+	"gui.xaero_category_exclude_list" : "除外されるエンティティのリスト",
+	"gui.xaero_box_category_exclude_list" : "すでに含まれているエンティティから除外されるエンティティのリスト。 除外モードに応じて\"ホワイトリスト\" または\"ブラックリスト\" として機能します。",
+	"gui.xaero_category_add_subcategory" : "サブカテゴリの追加",
+	"gui.xaero_category_hard_include" : "自動で含まれるエンティティのリスト",
+	"gui.xaero_box_category_hard_include" : "含まれるエンティティのリストに追加されずとも自動的に含まれるエンティティのリストです。",
+	"gui.xaero_category_list_add" : "リストに追加...",
+	"gui.xaero_category_exclude_list_mode" : "除外モード",
+	"gui.xaero_category_name" : "カテゴリ名...",
+	"gui.xaero_category_confirm" : "確定",
+	"gui.xaero_category_delete" : "カテゴリの削除",
+	"gui.xaero_category_delete_confirm" : "このカテゴリを削除しますか？",
+	"gui.xaero_category_enable_protection" : "保護：OFF",
+	"gui.xaero_category_disable_protection" : "保護：有効",
+	"gui.xaero_category_disable_protection_confirm" : "このカテゴリの保護を解除しますか？",
+	"gui.xaero_category_enable_protection_confirm" : "このカテゴリを保護しますか？",
+	"gui.xaero_box_category_protection" : "カテゴリ保護により、カテゴリの削除・移動・名前の変更などの設定を誤って変更してしまうことを防ぎます。",
+	"gui.xaero_category_protected_category" : "保護されている",
+	"gui.xaero_category_category_move_up" : "優先度上昇",
+	"gui.xaero_category_category_move_down" : "優先度降下",
+	"gui.xaero_category_delete_list_element" : "削除",
+	"gui.xaero_category_settings_confirm" : "確定",
+	"gui.xaero_category_settings_cancel" : "キャンセル",
+	"gui.xaero_category_settings_cancel_confirm" : "セーブせずに終了しますか？",
+	"gui.xaero_category_settings_reset" : "デフォルトに戻す",
+	"gui.xaero_category_settings_reset_confirm1" : "このカテゴリの設定をデフォルトに戻しますか？",
+	"gui.xaero_category_settings_reset_confirm2" : "カスタムカテゴリは削除され、デフォルトのものが追加されます。",
+	"gui.xaero_radar_displayed" : "表示",
+	"gui.xaero_radar_dots_color" : "ドットの色",
+	"gui.xaero_radar_icons_displayed" : "アイコン",
+	"gui.xaero_radar_names_displayed" : "名前",
+	"gui.xaero_radar_render_order" : "描画順",
+	"gui.xaero_box_radar_render_order" : "レーダーカテゴリ毎の描画優先度を設定します。 数値が小さいほど速く描画され、埋もれやすくなります。 ただしマインクラフトのバージョンが新しい場合はドットは常にアイコンの上に描画されます。 ただしこの順序はドットまたはアイコンの描画中にも適用されます。",
+	"gui.xaero_radar_dots_color_team_colour" : "チームの色",
+	"gui.xaero_box_always_entity_nametags2" : "名前表示の設定に関わらず常にエンティティの名称を表示します。",
+	"gui.xaero_radar_setting_displayed" : "レーダーの表示",
+	"gui.xaero_radar_setting_names" : "名前の表示",
+	"gui.xaero_radar_setting_icons" : "アイコンの表示",
+	"gui.xaero_toggle_entity_radar" : "エンティティレーダーの切り替え",
+	"narration.xaero_ui_list_left_right_usage" : "左右のボタンを押すことでエントリ内の全列を選択します。",
+	"gui.xaero_category_help" : "カスタムカテゴリの作成時には、複数のサブカテゴリに同じエンティティが含まれている時リストの上位にあるサブカテゴリが優先されることに注意してください。 多くの場合新しいカスタムカテゴリを最上部に配置する必要があります。",
+	"gui.xaero_update_notification" : "新バージョンの通知",
+	"gui.xaero_category_cut" : "§e%1$sを切り取る",
+	"gui.xaero_category_paste" : "§e%1$s§rを§e%2$sへ貼り付け",
+	"gui.xaero_category_paste_cancel" : "切り取り/貼り付けのキャンセル",
+	"gui.xaero_category_duplicate" : "§e%1$sをコピーする",
+	"gui.xaero_category_duplicate_confirm" : "このカテゴリをコピーしますか？",
+	"gui.xaero_reverse_entity_radar" : "レーダー描画順の反転",
+	"gui.xaero_adjust_height_for_carpetlike_blocks" : "薄いブロックのためのY調整",
+	"gui.xaero_box_adjust_height_for_carpetlike_blocks" : "薄いブロックの高さから1を引きます。 カーペットや雪・ハスの葉などが過剰な影を落とすことを防ぎます。",
+	"gui.xaero_box_category" : "§e%1$sを編集する",
+	"gui.xaero_box_category_settings" : "§e%1$sカテゴリの設定",
+	"gui.xaero_auto_convert_wp_distance_km" : "これ以上の距離はkmに変換して表示する",
+	"gui.xaero_auto_convert_wp_distance_km_never" : "しない",
+	"gui.xaero_waypoint_distance_precision" : "精密なウェイポイントとの距離",
+	"gui.xaero_sort_angle" : "直線距離",
+	"gui.xaero_toggle_enabled" : "有効",
+	"gui.xaero_toggle_disabled" : "無効",
+	"gui.xaero_main_entity_dot_size" : "メインエンティティのドットの大きさ"
+}
