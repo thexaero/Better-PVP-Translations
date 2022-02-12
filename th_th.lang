@@ -65,7 +65,6 @@ gui.xaero_reset_defaults=คืนค่าเริ่มต้น
 gui.xaero_quick_use=ใช้ไอเทมอย่างรวดเร็ว
 gui.xaero_show_enchants=แสดงการร่ายมนต์
 gui.xaero_cave_maps=แผนที่ถ้ำ
-gui.xaero_display_teams=แสดงทีมอื่นๆ
 gui.xaero_display_waypoints=เวย์พอยต์บนแผนที่
 gui.xaero_zoom=ซูม
 gui.xaero_minimap_size=ขนาดของแผนที่ย่อ
