@@ -124,7 +124,6 @@ gui.xaero_deathpoint=Son Ölüm
 gui.xaero_deathpoint_old=Eski Ölüm
 gui.xaero_deathpoints=Ölüm İşaretleri
 gui.xaero_chunkgrid=Chunk Çerçeveleri
-gui.xaero_entity_colours=Varlık Renkleri
 gui.xaero_players=Oyuncular
 gui.xaero_mobs=Barışçıl Moblar
 gui.xaero_hostile=Saldırgan Moblar

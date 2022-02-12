@@ -125,7 +125,6 @@ gui.xaero_deathpoint=Morte mais recente
 gui.xaero_deathpoint_old=Morte antiga
 gui.xaero_deathpoints=Pontos de morte
 gui.xaero_chunkgrid=Linhas de Chunks
-gui.xaero_entity_colours=Cores das entidades
 gui.xaero_players=Jogadores
 gui.xaero_mobs=Mobs Passivos
 gui.xaero_hostile=Mobs Hostis

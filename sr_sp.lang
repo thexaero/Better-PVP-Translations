@@ -125,7 +125,6 @@ gui.xaero_deathpoint=Poslednja Smrt
 gui.xaero_deathpoint_old=Stara Smrt
 gui.xaero_deathpoints=Tačke Smrti
 gui.xaero_chunkgrid=Mreža Delova (Čankova)
-gui.xaero_entity_colours=Boja Bića
 gui.xaero_players=Igrači
 gui.xaero_mobs=Prijateljska Bića
 gui.xaero_hostile=Neprijateljska Bića

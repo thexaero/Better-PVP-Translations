@@ -124,7 +124,6 @@ gui.xaero_deathpoint=Poslední smrt
 gui.xaero_deathpoint_old=Stará smrt
 gui.xaero_deathpoints=Body umrtí
 gui.xaero_chunkgrid=Rastr chunků
-gui.xaero_entity_colours=Barvy položek
 gui.xaero_players=Hráči
 gui.xaero_mobs=Přátelští mobové
 gui.xaero_hostile=Nepřátelští mobové
