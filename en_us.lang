@@ -384,6 +384,7 @@ gui.xaero_waypoint_shared=%1$s shared a waypoint called "%2$s"! §2§n[Add]
 gui.xaero_waypoint_shared_dimension=%1$s shared a waypoint called "%2$s" from %3$s! §2§n[Add]
 gui.xaero_waypoint_unknown_dimension=an unknown dimension
 gui.xaero_uses_worldmap_value=Setting value is taken from the world map settings!
+gui.xaero_uses_worldmap_hard_value=Setting value cannot be configured when using the world map chunks!
 gui.xaero_dots_style=Entity Dots Style
 gui.xaero_dots_style_default=Default
 gui.xaero_dots_style_legacy=Legacy
